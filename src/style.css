@@ -1,0 +1,54 @@
+#cabeca{
+    background-color: #5163D3;
+   
+}
+#logo{
+    margin-left: 50%;
+}
+
+
+#ulLista{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    margin-right: 7%;
+    list-style-type: none
+}
+
+.ListaBox{
+
+    height: 180px;
+    width: 569px;
+    margin-top: 5%;
+    margin-left: 50px;
+    list-style-type: none
+
+}
+.imagemCard{
+    width: 270px;
+    height: 180px;
+}
+.tagCard{
+    
+    margin-left: 54%;
+    margin-top: -32%;
+    
+}
+.tituloCard {
+    /* position: absolute; */
+    width: 357px;
+    margin-left: 52%;
+    color:#5163D3;
+    font-family: ;
+}
+.paragrafoCard {
+    /* position: absolute; */
+    width: 357px;
+    margin-left: 52%;
+
+}
+.fonteCard {
+    /* position: absolute; */
+    margin-left: 52%;
+    font-size: 12px;
+}
